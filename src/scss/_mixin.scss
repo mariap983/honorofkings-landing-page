@@ -1,0 +1,10 @@
+@mixin flex($aligin-item, $justify-content) {
+    display: flex;
+    align-items: $aligin-item;
+    justify-content: $justify-content;
+}
+
+/* The selected code is a mixin. A mixin is like a function that can be reused 
+in different places of your scss file. The purpose of this particular mixin 
+is to make the element it's applied on, display as flex and align its items 
+according to the parameters passed into the function. */

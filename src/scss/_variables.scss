@@ -1,0 +1,22 @@
+$body-bg: #0f0f0f;
+$main-color: #be9d5f;
+$second-color: #791a1d;
+$third-color: #942b2e;
+$txt-color: #fff;
+
+$white: #fff;
+$black: #000;
+
+$header-height: 9.5rem;
+$border-radius: 15px;
+
+$mobile-width: 600px;
+$tablet-width: 1024px;
+
+$font-family: "Rowdies", cursive;
+
+/* The selected code is a list of variables that are used in the CSS file. 
+The variables are defined at the top of the SCSS file and then referenced 
+throughout the rest of it. This makes it easier to change colors, fonts, 
+sizes etc. because you only have to do so once for each variable instead 
+of changing every instance where they're used individually. */
